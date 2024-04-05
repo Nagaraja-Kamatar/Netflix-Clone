@@ -1,13 +1,3 @@
-### 3. Movie Details Page
-
-Click on a movie to access its details, including a brief description, cast information, and user ratings. Get a closer look at your favorite films and TV shows.
-
-Explore a dynamic movie carousel showcasing popular and trending titles. Navigate through a visually appealing selection of movies using intuitive controls.
-
-### 3. Movie Details Page
-
-Click on a movie to access its details, including a brief description, cast information, and user ratings. Get a closer look at your favorite films and TV shows.
-
 # Netflix Clone
 
 Welcome to the Netflix Clone project, a simple web application replicating the popular Netflix streaming service.
@@ -21,6 +11,16 @@ Enjoy a seamless viewing experience on various devices. The website is designed 
 ### 2. Movie Carousel
 
 Explore a dynamic movie carousel showcasing popular and trending titles. Navigate through a visually appealing selection of movies using intuitive controls.
+
+### 3. Movie Details Page
+
+Click on a movie to access its details, including a brief description, cast information, and user ratings. Get a closer look at your favorite films and TV shows.
+
+Explore a dynamic movie carousel showcasing popular and trending titles. Navigate through a visually appealing selection of movies using intuitive controls.
+
+### 3. Movie Details Page
+
+Click on a movie to access its details, including a brief description, cast information, and user ratings. Get a closer look at your favorite films and TV shows.
 
 
 
