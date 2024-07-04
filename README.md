@@ -1,7 +1,6 @@
 # Netflix Clone
 
 Welcome to the Netflix Clone project, a simple web application replicating the popular Netflix streaming service.
-Welcome to the Netflix Clone project, a simple web application replicating the popular Netflix streaming service.
 
 
 
