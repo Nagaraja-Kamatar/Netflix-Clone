@@ -26,7 +26,6 @@ Click on a movie to access its details, including a brief description, cast info
 
 
 ![Uploading Screenshot 2024-04-21 at 8.42.43 PM.png…]()
-![Uploading Screenshot 2024-04-21 at 8.42.58 PM.png…]()
 
 
 
