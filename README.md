@@ -25,7 +25,6 @@ Explore a dynamic movie carousel showcasing popular and trending titles. Navigat
 Click on a movie to access its details, including a brief description, cast information, and user ratings. Get a closer look at your favorite films and TV shows.
 
 
-![Uploading Screenshot 2024-04-21 at 8.42.43 PM.png…]()
 
 
 
