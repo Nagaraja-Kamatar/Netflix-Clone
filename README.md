@@ -26,7 +26,6 @@ Click on a movie to access its details, including a brief description, cast info
 
 
 
-<img width="1440" alt="Screenshot 2024-04-21 at 8 43 23 PM" src="https://github.com/Nagaraja-Kamatar/Netflix-Clone/assets/145822414/8728dea9-b1ec-460f-a5ad-2ba90100c4d1">
 
 
 <img width="1440" alt="Screenshot 2024-04-21 at 8 43 23 PM" src="https://github.com/Nagaraja-Kamatar/Netflix-Clone/assets/145822414/8728dea9-b1ec-460f-a5ad-2ba90100c4d1">
